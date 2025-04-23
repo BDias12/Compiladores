@@ -1,2 +1,0 @@
-Exercicio3.CUP$ParserSintatico$actions
-Exercicio3.ParserSintatico
